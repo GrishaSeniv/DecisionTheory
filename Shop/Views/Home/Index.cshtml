@@ -1,0 +1,55 @@
+﻿@model HomeViewModel
+@{
+    ViewData["Title"] = "Домашня сторінка";
+}
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+{
+
+    <div class="alert alert-primary" role="alert">
+        <h3>Персональний кабінет користувача</h3>
+        <p>@User.Identity.Name</p>
+
+        <form method="post" asp-controller="Account" asp-action="LogOff">
+            <input type="submit" value="Вихід" />
+        </form>
+
+        <form method="post" asp-controller="Roles">
+            <input type="submit" value="Керування ролями" />
+        </form>
+
+        <form method="post" asp-controller="Users">
+            <input type="submit" value="Керування користувачами" />
+        </form>
+    </div>
+
+    
+}
+else if (User.Identity.IsAuthenticated)
+{
+<div class="alert alert-primary" role="alert">
+    <h3>Персональний кабінет користувача</h3>
+    <p>@User.Identity.Name</p>
+
+    <form method="post" asp-controller="Account" asp-action="LogOff">
+        <input type="submit" value="Вихід" />
+    </form>
+
+</div>
+
+}
+
+
+<h1>Найкращий асортимент товарів</h1>
+<div class="row mt-5 mb-2">
+    @{
+
+        foreach (Car car in Model.favCars)
+        {
+            @Html.Partial("AllCars", car)
+
+        }
+
+    }
+</div>
+

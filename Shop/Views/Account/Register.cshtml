@@ -1,0 +1,56 @@
+﻿@model Shop.ViewModels.RegisterViewModel
+
+<body class="login-page">
+
+
+    <main>
+
+        <div class="login-block">
+
+            <h1>Вхід у персональний кабінет</h1>
+
+            <form asp-controller="Account" asp-action="Register">
+
+                <div asp-validation-summary="ModelOnly"></div>
+
+
+                <hr class="hr-xs">
+
+                <div class="form-group">
+                    <div class="input-group">
+
+                        <input asp-for="Email" type="text" class="form-control" placeholder="Your email address" required="" autofocus="">
+                    </div>
+                </div>
+
+                <hr class="hr-xs">
+
+                <div class="form-group">
+                    <div class="input-group">
+
+                        <input asp-for="Password" type="password" class="form-control" placeholder="Choose a password" required="" autofocus="">
+                    </div>
+                </div>
+
+                <hr class="hr-xs">
+
+                <div class="form-group">
+                    <div class="input-group">
+
+                        <input asp-for="PasswordConfirm" type="password" class="form-control" placeholder="Choose a password" required="" autofocus="">
+                    </div>
+                </div>
+
+                <button class="btn btn-primary btn-block" type="submit">Вхід</button>
+
+
+
+            </form>
+        </div>
+
+        <div class="login-links">
+            <p class="text-center">Вже маєте аккаунт? <a class="txt-brand" href="/Account/Login">Вхід</a></p>
+        </div>
+
+    </main>
+</body>

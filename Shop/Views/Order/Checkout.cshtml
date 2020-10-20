@@ -1,0 +1,35 @@
+﻿@model Order
+
+    <div class="col-md-8 order-md-1">
+        <h3 class="mb-3">Оформлення замовлення</h3>
+        <form asp-action="Checkout" method="post" class="form-horizontal">
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="name"></label>
+                    <input asp-for="name" class="form-control" />
+                    <span asp-validation-for="name" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="surname"></label>
+                    <input asp-for="surname" class="form-control" />
+                    <span asp-validation-for="surname" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="adress"></label>
+                <input asp-for="adress" class="form-control" />
+                <span asp-validation-for="adress" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="phone"></label>
+                <input asp-for="phone" class="form-control" />
+                <span asp-validation-for="phone" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="email"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <input class="btn btn-success" type="submit" value="Завершити замовлення" />
+        </form>
+    </div>

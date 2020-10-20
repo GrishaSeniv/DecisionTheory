@@ -1,0 +1,114 @@
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\bin\Debug\netcoreapp2.1\dbsettings.json
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\dbsettings.json
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Admin\Desktop\Бд(тестова сука версія)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\dbsettings.json
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Оновлений сайт(без авторизації)\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\ChangePassword.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Roles\UserList.cshtml.g.cs
+C:\Users\Admin\Desktop\Shop\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Roles\Edit.cshtml.g.cs
